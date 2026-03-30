@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="HippoChat.vcxproj" />
+  <Project Path="HippoChat.vcxproj" Id="65a4fc39-277b-4a3c-9b65-e45e06288c3e" />
 </Solution>
