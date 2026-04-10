@@ -1,13 +1,13 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include<stdlib.h>
 #include<stdio.h>
 #include <string.h>
+#include<sys/socket.h>
 
 #define maxNameLength 12
 #define maxChatLength 100
 
 void clearConsole(){ // clears terminal
-	system("cls");
+	system("clear");
 }
 
 void clear_input_buffer() { // clears carryover input
